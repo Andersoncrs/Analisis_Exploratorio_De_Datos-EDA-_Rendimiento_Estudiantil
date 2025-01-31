@@ -1,4 +1,5 @@
 # 📊 Informe de Análisis Exploratorio de Datos (EDA) sobre el Rendimiento de los Estudiantes
+![](Portada_Estudiantes_EDA.png)
 
 ## 📝 Introducción
 
