@@ -1,5 +1,8 @@
 # 📊 Informe de Análisis Exploratorio de Datos (EDA) sobre el Rendimiento de los Estudiantes
+
 ![](Portada_Estudiantes_EDA.png)
+
+> También puedes visualizar este informe de análisis en el siguiente enlace de Kaggle: [Rendimiento de los Estudiantes - Análisis Exploratorio de Datos (EDA) - Anderson Rodríguez](https://www.kaggle.com/code/andersonrodriguezs/analisis-exploratorio-de-datos-en-espa-ol)
 
 ## 📝 Introducción
 
